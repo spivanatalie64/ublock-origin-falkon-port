@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Service
+X-Falkon-Type=Extension/Python
+Name=uBlock Origin
+Comment=An efficient content blocker for Falkon
+Icon=ublock-origin
+
+X-Falkon-Author=Natalie
+X-Falkon-Version=0.1.0
+X-Falkon-Settings=true
